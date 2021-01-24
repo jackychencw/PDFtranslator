@@ -5,3 +5,4 @@ opencv-python==4.5.1.48
 pysimplegui==4.34.0
 pypdf2==1.26.0
 googletrans==3.1.0a0
+fpdf==1.7.2
