@@ -4,6 +4,8 @@ import pytesseract
 from PIL import Image
 import cv2
 
+pytesseract.tesseract_cmd = './packages/tesseract-ocr'
+
 def make_dir(path):
     try:
         os.mkdir(path)
