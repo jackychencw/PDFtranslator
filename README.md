@@ -19,8 +19,13 @@ python main.py
 ## 3. Showcase
 
 1. UI of the application
+
    ![UI](https://raw.githubusercontent.com/jackychencw/PDFtranslator/main/imgs/UI.png)
+
 2. There is a smaple PDF file you can use under /sample
+
    ![origin file](https://raw.githubusercontent.com/jackychencw/PDFtranslator/main/imgs/Origin.png)
+
 3. Translated
+
    ![translated file](https://raw.githubusercontent.com/jackychencw/PDFtranslator/main/imgs/Translated.png)
